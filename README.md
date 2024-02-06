@@ -1,14 +1,14 @@
 <h1 align="center">Hi There👋, I'm Liza</h1>
 
 <div align="center">
-<img alt="coding" width="800" height="432" src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif">
+<img alt="coding" width="500" height="300" src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif">
 </div>
 
-<h3 align="center">Cloud Enthusiast | Constantly learning, Exploring, and Evolving. 💡📚✨</h3>
+<h2 align="center">Cloud Enthusiast | Constantly learning, Exploring, and Evolving. 💡📚✨</h2>
 
-<p align="center">
+<h3 align="center">
 I'm a tech-loving undergrad studying information systems. I'm all about diving into the tech universe, soaking up new knowledge, especially in Backend development and Cloud tech. I'm a JavaScript enthusiast, dabbling with cool tools for app development. Besides, I've got the lowdown on networking and databases. Super pumped to keep leveling up in Backend and Cloud dev, ready to throw down in some rad projects down the line! 🚀
-</p>
+</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
