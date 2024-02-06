@@ -1,6 +1,8 @@
 <h1 align="center">Hi There👋, I'm Liza</h1>
 
-<img align="center" alt="coding" width="1220" height="532" src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif">
+<div align="center">
+<img alt="coding" width="800" height="432" src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif">
+</div>
 
 <h3 align="center">Cloud Enthusiast | Constantly learning, Exploring, and Evolving. 💡📚✨</h3>
 
